@@ -2,7 +2,6 @@
 ###########################       ANÁLISE DAS OCORRÊNCIAS AERONÁUTICAS NA AVIAÇÃO CIVIL BRASILEIRA       ###########################
 ####################################################################################################################################
 
-
 ######                   Dados de ocorrências aeronáuticas da aviação civil brasileira nos últimos 10 anos.                   ######
 ######         Dados disponíveis em https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira         ######
 
@@ -15,7 +14,6 @@ if(!require(gtsummary)){install.packages('gtsummary'); require(gtsummary)}
 if(!require(RColorBrewer)){install.packages('RColorBrewer'); require(RColorBrewer)}
 if(!require(naniar)){install.packages('naniar'); require(naniar)}
 if(!require(AER)){install.packages('AER'); require(AER)}
-
 
 #### LIMPANDO OS OBJETOS DA MEMÓRIA  ####
 rm(list=ls()) 
