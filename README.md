@@ -8,7 +8,7 @@
 
 # 1. Descrição
 
-Análise da base dados “Ocorrências Aeronáuticas na Aviação Civil Brasileira”, utilizando dados abertos do governo, disponíveis em: (https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira) ou [aqui]() neste repositório.
+Análise da base dados “Ocorrências Aeronáuticas na Aviação Civil Brasileira”, utilizando dados abertos do governo, disponíveis em: (https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira) ou [aqui](https://github.com/Leiliane-Oliveira/Ocorrencias_Aeronauticas_na_Aviacao_Civil_Brasileira/tree/main/Dados) neste repositório.
 
 O objetivo desta análise é explorar as bases de dados para responder questões como:
 
@@ -64,13 +64,13 @@ O Modelo de Poisson é amplamente utilizado em diversas áreas, como epidemiolog
 
 Neste diretório os arquivos estão organizados da seguinte forma:
 
-:file_folder: [Dados]() : Pasta com os dados em csv
+:file_folder: [Dados](https://github.com/Leiliane-Oliveira/Ocorrencias_Aeronauticas_na_Aviacao_Civil_Brasileira/tree/main/Dados) : Pasta com os dados em csv
 
-:file_folder: [Graficos]() : Pasta com todos os gráficos gerados na análise
+:file_folder: [Graficos](https://github.com/Leiliane-Oliveira/Ocorrencias_Aeronauticas_na_Aviacao_Civil_Brasileira/tree/main/Graficos) : Pasta com todos os gráficos gerados na análise
 
-:file_folder: [Slides]() : Pasta com os slides da Apresentação dos Resultados
+:file_folder: [Slides](https://github.com/Leiliane-Oliveira/Ocorrencias_Aeronauticas_na_Aviacao_Civil_Brasileira/tree/main/Slides) : Pasta com os slides da Apresentação dos Resultados
 
-:page_facing_up: [SCRIPT](): Script da análise em R
+:page_facing_up: [SCRIPT](https://github.com/Leiliane-Oliveira/Ocorrencias_Aeronauticas_na_Aviacao_Civil_Brasileira/blob/main/SCRIPT.R): Script da análise em R
 
 # 3. Apresentação dos Resultados
 
